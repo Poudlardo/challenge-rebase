@@ -1,0 +1,13 @@
+j'ai fait un premier commit sur le fichier README.md la branche main
+
+j'ai créé une branche feature-branch ou j'ai modifié puis commit le fichier README.md
+
+je suis retourné sur la branche main et ai encore modifié le fichier README.md
+
+Je suis allé sur la branche feature-branch, mis "git rebase main" mais j'ai du résoudre le conflit sur le fichier README.md. J'ai laissé les modifications de chaque branche et j'ai enlevé les marqueurs de conflit.
+
+J'ai commit le conflit, et ai finalisé le git rebase main.
+
+je suis allé sur la branche main et merge la branche feature-branch
+
+puis j'ai fait un autre commit pour ajouter cette note explicative.
